@@ -1,4 +1,1 @@
-### Hey there 👋 🌍
-_Is GitHub profile the new Instagram portfolio?_
-
-![Twitter Follow](https://img.shields.io/twitter/follow/ryanscordino?style=social) 
+Founder of [Public Method Studio](https://www.publicmethod.studio). Based at Paris. Come say hi on [instagram](https://www.instagram.com/publicmethod.studio/)
